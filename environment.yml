@@ -1,0 +1,11 @@
+name: napari-dask
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - napari
+  - jupyterlab
+  - pyopencl
+  - pip
+  - pip:
+      - napari-ndtiffs
