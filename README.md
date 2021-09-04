@@ -5,6 +5,8 @@ Summit. It is an interactive version of the post
 https://napari.org/tutorials/applications/dask.html (deconvolution has been
 removed for ease of environment setup)*
 
+presentation: https://www.youtube.com/watch?v=YrQzAMdLU6c
+
 ## Problem
 
 **Light sheet microscopy** is an emerging light microscopy technique that often
